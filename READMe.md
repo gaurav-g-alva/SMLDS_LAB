@@ -1,9 +1,6 @@
 # Statistical Machine Learning for Data Science  
 
-![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)  
-![License](https://img.shields.io/badge/license-MIT-green.svg)  
-![Last Commit](https://img.shields.io/github/last-commit/username/repo-name)  
-![Repo Size](https://img.shields.io/github/repo-size/username/repo-name)  
+![Python](https://img.shields.io/badge/python-3.12%2B-blue.svg)  ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)  ![Anaconda](https://img.shields.io/badge/Anaconda-Data%20Science-green?logo=anaconda)  
 
 ## 📌 Introduction  
 This repository contains experiments and implementations for the course **Statistical Machine Learning for Data Science**. It covers statistical methods, machine learning techniques, and their applications on datasets.  
