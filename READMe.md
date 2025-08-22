@@ -6,7 +6,7 @@
 This repository contains experiments and implementations for the course **Statistical Machine Learning for Data Science**. It covers statistical methods, machine learning techniques, and their applications on datasets.  
 
 ## 📂 Experiments List  
-- Experiment 1: [House Price](/LAB/EXP_1/HousePrice.md)
+- Experiment 1: [House Price](EXP_1/HousePrice.md)
 - Experiment 2: [Title / Concept]  
 - Experiment 3: [Title / Concept]  
 - ...  
