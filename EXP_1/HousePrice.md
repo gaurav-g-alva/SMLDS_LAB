@@ -19,7 +19,7 @@ try:
         column_name=df.columns[0]
     house_prices=df[column_name].dropna().values
     house_prices=house_prices[house_prices>0]
-    print(f"\n total no of valid house prieces {len(house_prices)}")
+    print(f"\n total no of valid house prices {len(house_prices)}")
     q1=np.percentile(house_prices,25)
     q3=np.percentile(house_prices,75)
     print(f"\nThe 25th percentile(Q1) of hosue price is:${q1:,.2f}")
@@ -27,7 +27,7 @@ try:
     iqr=q3-q1
     print(f"the interquartile (IQR) of house price is ${iqr:,.2f}\n")
 except FileNotFoundError:
-    print("File not found.please check the fiel path")
+    print("File not found.please check the file path")
 except pd.errors.EmptyDataError:
     print("File is empty or corrupted")
 except Exception as e:
@@ -69,7 +69,7 @@ plt.show()
     
      total no of valid house prieces 200
     
-    the 25th percentile(Q1) of hosue price is:$4,482,034.50
+    The 25th percentile(Q1) of hosue price is:$4,482,034.50
     The 75th percentile (Q3) of house price is:$12,549,849.75
     
     the interquartile (IQR) of house price is $8,067,815.25
