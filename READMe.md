@@ -1,6 +1,6 @@
 # Statistical Machine Learning for Data Science  
 
-![Python](https://img.shields.io/badge/python-3.12%2B-blue.svg)  ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)  ![Anaconda](https://img.shields.io/badge/Anaconda-Data%20Science-green?logo=anaconda)  
+![Python](https://img.shields.io/badge/python-3.12%2B-blue.svg)  ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)  ![Anaconda](https://img.shields.io/badge/Anaconda-Data%20Science-green?logo=anaconda)  ![](https://komarev.com/ghpvc/?username=gaurav-g-alva&label=visits&color=orange&style=flat-square)
 
 ## 📌 Introduction  
 This repository contains experiments and implementations for the course **Statistical Machine Learning for Data Science**. It covers statistical methods, machine learning techniques, and their applications on datasets.  
