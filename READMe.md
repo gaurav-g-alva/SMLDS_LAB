@@ -14,17 +14,20 @@ This repository contains experiments and implementations for the course **Statis
 ## ⚙️ Setup  
 1. Clone the repository  
    ```bash
-   git clone https://github.com/username/repo-name.git
-   cd repo-name
+   git clone https://github.com/gaurav-g-alva/SMLDS_LAB.git
+   cd SMLDS_LAB
+   ```
 
 2. (Optional) Create and activate a virtual environment:
     ```bash
     python -m venv venv
     source venv/bin/activate   # For Linux/Mac
     venv\Scripts\activate      # For Windows
+    ```
 
 3. 🚀 Usage - Open the corresponding Jupyter Notebook:
     ```bash
-    jupyter notebook LAB/EXP_no/exp_name.ipynb
+    jupyter notebook SMLDS_LAB/EXP_no/exp_name.ipynb
+    ```
 Modify datasets or parameters inside the script/notebook to explore different outcomes.
 
