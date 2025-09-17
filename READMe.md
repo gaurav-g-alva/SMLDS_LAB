@@ -32,3 +32,8 @@ This repository contains experiments and implementations for the course **Statis
     ```
 Modify datasets or parameters inside the script/notebook to explore different outcomes.
 
+<br><br>
+<p align="center">✨ Visuals Crafted for Curious Minds ✨ | © 2025 </p>
+<p align="center">
+  <img src="gaurav.png" alt="Gaurav Alva" width="150"/><br>
+</p>
