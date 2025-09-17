@@ -8,7 +8,7 @@ This repository contains experiments and implementations for the course **Statis
 ## 📂 Experiments List  
 - Experiment 1: [House Price](EXP_1/HousePrice.md)
 - Experiment 2: [Customer Satisfaction](/EXP_2/CustomerSatisfaction.md)  
-- Experiment 3: [Title / Concept]
+- Experiment 3: [Car Data Analysis](/EXP_3/CarData.md)
 - Experiment 4: [Salary of Population](/EXP_4/PopulationSalary.md)  
 - ...  
 
